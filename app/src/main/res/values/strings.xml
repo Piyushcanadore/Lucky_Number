@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">First Name</string>
+    <string name="hint_email">Last Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_bdate">Birth Day</string>
+    <string name="hint_lucky">Lucky Number</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_date">Enter Valid Birthdate</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+
+    <string name="entersecurityhint">Enter security hint</string>
+
+
+    <!--    Information-->
+    <string name="blank"></string>
+    <string name="info_1"><![CDATA[
+         <h1>Number 1</h1>
+        <p>The Lucky Number 1 drive in this life is characterized by individualist desires, independence, and the need for personal attainment. The purpose to be fulfilled on this Lucky Number is that of becoming independent. This is a two part learning process; first, you must learn to stand on your own two feet and learn not to depend on others. After you are indeed free and independent, you must learn to be a leader. Many of our Generals, corporate leaders, and political leaders are men and women having the Lucky Number number 1.</p>
+        <p>The 1 always has the potential for greatness as a leader, but they may fail as a follower. Many 1\'s spend most of their lives shaking off their dependent side. When this happens, there is little time left for enjoying the rewards to be gained through independence. The individual with Lucky Number 1 has to overcome an environment in which it is very easy to be dependent, and difficult to be independent.</p>
+        <p>A person with positive 1 traits abounds in creative inspiration, and possesses the enthusiasm and drive to accomplish a great deal. Your drive and potential for action comes directly from the enormous depth of strength you have. This is both the physical and inner varieties of strength. With this strength comes utter determination and the capability to lead. As a natural leader you have a flair for taking charge of any situation. Highly original, you may have talents as an inventor or innovator of some sort. In any work that you choose, your independent attitude can show through. You have very strong personal needs and desires, and you feel it is always necessary to follow your own convictions.</p>
+        <p>You are ambitious, and either understand or must learn the need for aggressive action to promote yourself. Although you may hide the fact for social reasons, you are highly self-centered and demand to have your way in most circumstances.</p>
+        <p>When the 1 Lucky Number person is not fully developed and expressing the negative side of this number, the demeanor may appear very dependent rather than independent. If you are expressing this negative trait of the number 1, you are likely to be very dissatisfied with your circumstances, and long for self-sufficiency. This is defined as the weak or dependent side of the negative 1 Lucky Number. On the strong side of this negative curve, the 1 energy can become too self-serving, selfish and egotistical. Over-confidence and impatience mark this individual.</p>
+        ]]>
+    </string>
+    <string name="info_2"><![CDATA[
+         <h1>Number 2</h1>
+        <p>The positive attributes of the number 2 Lucky Number produces extremely sensitive people who generally have the most delicate ability to be balanced and fair. They are emotional people.</p>
+        <p>You clearly see the full spectrum of viewpoints in any argument or situation, and because of this people may seek you out to be a mediator. In this role you are able to settle disputes with the most unbiased flair. There is sincere concern for others; you think the best of people, and want the best for them.</p>
+        <p>You are totally honest and open in thought, word and deed. You are apt to excel in any for of group activity where your expertise in handling and blending people can be used effectively. Manners and tact mark your way with others at all times. In many ways, you are a creature of habit and routine, and you like to your path and pattern well worn and familiar.</p>
+        <p>You are the master of compromise and of maintaining harmony in your environment, never stooping to aggravate or argue. A natural collector, you rarely dispose of anything that may have a shred of value.</p>
+        <p>The negative side of the 2 is hardly a problem. The biggest obstacle and difficulty you may face is that of passivity and a state of apathy and lethargy. The negative 2 can be very pessimistic and accomplishes very little. Needless to say, the negative 2 doesn\'t belong in the business world and even the more positive individual with the 2 Lucky Number may prefer a more amiable and less competitive environment.</p>
+        ]]>
+    </string>
+    <string name="info_3"><![CDATA[
+         <h1>Number 3</h1>
+        <p>The number 3 Lucky Number is one that emphasizes expression, sociability, and creativity as the lesson to be learned in this life. Here we are apt to find the entertainers of the world, bright, effervescent, sparkling people with very optimistic attitudes.</p>
+        <p>A truly gifted 3 possesses the most exceptional creative skills, normally in the verbal realm, writing, speaking, acting, or similar endeavors. The lesson to be learned with a 3 Lucky Number is that of achievement through expression.</p>
+        <p>The bright side of this path stresses harmony, beauty and pleasures; of sharing your creative talents with the world. Capturing your capability in creative self-expression is the highest level of attainment for this Lucky Number. The characteristics of the 3 are warmth and friendliness, a good conversationalist, social and open. A good conversationalist both from the standpoint of being a delight to listen to, but even more importantly, one who has the ability to listen to others. Accordingly, the Lucky Number 3 produces individuals who are always a welcome addition to any social situation and know how to make others feel at home.</p>
+        <p>The creative imagination is present, if sometimes latent, as the 3 may not be moved to develop his talent. The approach to life tends to be exceedingly positive, however, and your disposition is almost surely sunny and open-hearted. You effectively cope with all of the many setbacks that occur in life and readily bounce back for more. It is usually easy for you to deal with problems because you can freely admit the existence of problems without letting them get you down.</p>
+        <p>You have good manners and seem to be very conscious of other people\'s feelings and emotions. Life is generally lived to the fullest, often without much worry about tomorrow. You are not very good at handling money because of a general lack of concern about it. You spend it when you have it and don\'t when you don\'t.</p>
+        <p>On the negative side, a 3 may be so delighted with the joy of living that the life becomes frivolous and superficial. You may scatter your abilities and express little sense of purpose. The 3 can be an enigma, for no apparent reason you may become moody and tend to retreat. Escapist tendencies are not uncommon with the 3 Lucky Number, and you find it very hard to settle into one place or one position. Guard against being critical of others, impatient, intolerant, or overly optimistic.</p>
+        <p>Typically, the Lucky Number 3 gives an above-average ability in some art form. This can encompass painting, interior decorating, landscaping, crafts, writing, music, or the stage, or all of the above. You are apt to be a happy, inspired person, constantly seeking the stimuli of similar people. Your exuberant nature can take you far, especially if you are ever able to focus your energies and talents.</p>
+        ]]>
+    </string>
+    <string name="info_4"><![CDATA[
+         <h1>Number 4</h1>
+        <p>The Lucky Number 4 produces the most trustworthy, practical, and down-to-earth of individuals; the cornerstone members of society. The goal of this Lucky Number is learning to take orders and to carry them out with dedication and perseverance.</p>
+        <p>You always demand as much from yourself as you do from others. You are apt to be an excellent organizer and planner because of your innate ability to view things in a very common sense and practical way. You have the kind of will power that is often mistaken for sheer stubbornness. Once a decision is made, it will be followed through to the conclusion, right, wrong, or indifferent; you are very set in your ways and determined to handle things the way you are so certain that they should be handled.</p>
+        <p>Your tenacity of purpose and ability to get the job done borders on obsession. Loyal and devoted, you make the best of your marriage, and you are a dependable business partner. Friends may be few in number, but you are very close to them and once friendships are made, they often last a lifetime. The number 4 is solidly associated with the element of earth from which it gains it strength and utter sense of reality.</p>
+        <p>You are one of the most dependable people you know. If patience and determination can ever win, you are sure to achieve great success in life.</p>
+        <p>The negative side of the 4 can prove dogmatic to an excess, narrow-minded, and repressive. A lot of skin-deep people turn you off, and you lack the tact to keep your feelings from being totally clear to all around. Additionally, the negative 4 has a bad tendency to get too caught up in the daily routine of affairs and often misses the big picture and major opportunities that come along once in a while.</p>
+        ]]></string>
+    <string name="info_5"><![CDATA[
+         <h1>Number 5</h1>
+        <p>A Lucky Number 5 person is usually very versatile, adventurous, and progressive. With a 5 Lucky Number, you are one of those people who is always striving to find answers to the many questions that life poses.</p>
+        <p>You want to be totally unrestrained, as this is the sign of freedom and independence. You abhor routine and boring work, and you are not very good at staying with everyday tasks that must be finished on time.</p>
+        <p>You are, however, a good communicator, and you know how to motivate people around you, perhaps inclining you to be a teacher of some sort. A love of adventure may dominate your life. This may take the form of mental or physical manifestation, but in either case, you thrill to the chance for exploration and blazing new trails. You are apt to be multi-talented, but just as likely to suffer from some lack of direction, and there is often some confusion surrounding your ambition.</p>
+        <p>In the most negative application or use of the 5 energies, you could become very irresponsible in tasks and decisions concerning your home and business life. The total pursuit of sensation and adventure can result in your becoming self-indulgent and totally unaware of the feelings of those around you. In the worse case situations negative 5\'s are very undependable and self-serving.</p>
+        <p>On the average, the number 5 personality is rather happy-go-lucky; living for today, and not worrying too much about tomorrow. It is important for you to mix with people of a like mind, and try to avoid those that are too serious and demanding.</p>
+        <p>It is also important for you to find a job that provides thought-provoking tasks rather than routine and redundant responsibilities. You do best dealing with people, but the important thing is that you have the freedom to express yourself at all times.</p>
+        ]]>
+    </string>
+    <string name="info_6"><![CDATA[
+         <h1>Number 6</h1>
+        <p>The Lucky Number 6 indicates that very prominent in your nature is a strong sense of responsibility. You are idealistic and must feel useful to be happy. The main contribution you make is that of advice, service and ever present support. This is the Lucky Number related to leadership by example and assumption of responsibility, thus, it is your obligation to pick up the burden and always be ready to help.</p>
+        <p>The Lucky Number 6 is one who is compelled to function with strength and compassion, a sympathetic and kind person, generous with personal and material resources. Wisdom, balance, and understanding are the cornerstones of this Lucky Number. Your extraordinary wisdom and the ability to understand the problems of others is apt to commence from an early age allowing you to easily span the generation gap and assume an important role in life early on. While the 6 may assume huge responsibilities in the community, the life revolves around the immediate home and family, for this is the most domestic of numbers.</p>
+        <p>Most with Lucky Number 6 are the positive types who willingly carry far more than their fair share of the load and are always there when needed. You are very human and realistic about life, and you feel that the most important thing in your life is the home, family and friends.</p>
+        <p>The number 6 Lucky Number actually produces few negative examples, but there are some pitfalls peculiar to the path.</p>
+        <p>Avoid a tendency to become overwhelmed by responsibilities and a slave to others. Also, avoid being too critical (of yourself or of others).</p>
+        ]]>
+    </string>
+    <string name="info_7"><![CDATA[
+        <h1>Number 7</h1>
+        <p>A Lucky Number 7 person is a peaceful and affectionate soul, and by nature rather reserved and analytical. The overwhelming strength of the number 7 is reflected in the depth of thinking that is shown; you will garner knowledge from practically every source that you find. Intellectual, scientific and studious, you don\'t accept a premise until you have dissected the subject and arrived at you own independent conclusion. This is a very spiritual number and it often denotes a sort of spiritual wisdom that becomes apparent at a fairly early age. You need a good deal of quiet time to be with your own inner thoughts and dreams.</p>
+        <p>You dislike crowds, noise and confusion. You are very thorough and complete in your work, the perfectionist who expects everyone else to be a meet a high standard of performance, too. You evaluate situations very quickly and with amazing accuracy.</p>
+        <p>You rely heavily on your experiences and your intuition, rather than accepting advice from someone; your hunches usually prove to be very accurate, and knowing this, you are one who tends to follow the directions they seem to guide. It\'s easy for you to detect deception and recognize insincere people.</p>
+        <p>You aren\'t one to have a wide circle of friends, but once you accept someone as a friend, it\'s for life. You really aren\'t a very social person, and your reserve is often taken to be aloofness. Actually, it\'s not that at all, but merely a cover up for your basic feeling of insecurity. You actually like being alone, away from the hustle and bustle of modern life. In many ways, you would have fit in better in much earlier times when the pace of life was less hectic.</p>
+        <p>In the most negative use of the 7 energies, you can become very pessimistic, lackadaisical, quarrelsome, and secretive. A Lucky Number 7 individual who is not living life fully and gaining through experiences, is a hard person to live with because of a serious lack of consideration and because there is such a negative attitude. The negative 7 is very selfish and spoiled. If you have any of the negative traits they are very difficult to get rid of because you tend to feel that the world really does owe you a living or in some way is not being fairly treated. Fortunately, the negative 7 is not the typical 7, at least not without some mitigating positive traits. This number is one that seems to have some major shifts from highs to lows. Stability in feelings may be elusive for you.</p>
+        ]]></string>
+    <string name="info_8"><![CDATA[
+         <h1>Number 8</h1>
+        <p>The Lucky Number of the number 8 you are focused on learning the satisfactions to be found in the material world.</p>
+        <p>The Lucky Number 8 produces many powerful, confident and materially successful people. You are apt to be very independent, forceful and competitive. Your routine is involved in practical, down-to-earth affairs, and there is relatively little time for dreams and visions.</p>
+        <p>You will want to use your ambitions, your organizational ability, and your efficient approach to carve a satisfying niche for yourself. Most of your concerns involve money and learning of the power that comes with its proper manipulation.</p>
+        <p>This Lucky Number is perhaps the one that is the most concerned with and desirous of status, as an accompaniment to material success. If you are a positive 8 you are endowed with tremendous potential for conceiving far-reaching schemes and ideas, and also possessing the tenacity and independence to follow them through to completion. In short, you are well-equipped for competition in the business world or in other competitive fields of endeavor.</p>
+        <p>You know how to manage yourself and your environment. You are practical and steady in your pursuit of major objectives, and you have the courage of your convictions when it comes to taking the necessary chances to get ahead.</p>
+        ]]></string>
+    <string name="info_9"><![CDATA[
+         <h1>Number 9</h1>
+        <p>The keys to the nature of a Lucky Number number 9 person are compassion, generosity, and a very humanitarian attitude. This is the lesson that must be learned in this life. Usually this number produces an individual that is very trustworthy and honorable, and one unlikely to harbor any sort of prejudice. Obviously, this is a rather tall order, but you are, in fact, a person that feels very deeply for individuals less fortunate than yourself, and if you are in a position to help, you certainly will. You tend to be quite sensitive, as you see the world with much feeling and compassion.</p>
+        <p>The 9, being the highest of the single digit numbers, holds an elevated position and poses certain responsibilities. The purpose of life for those with a 9 Lucky Number is of a philosophical nature. Judges, spiritual leaders, healers and educators frequently have much 9 energy.</p>
+        <p>You are apt to frequently find yourself being used and let down by others, as your generosity is misused and abused.</p>
+        <p>The number 9\'s very deep understanding of life is sometimes manifested in the artistic and literary fields. Here you may be able to express your deep emotional feelings through painting, writing, music, or other art forms. Often, however, there if a great deal of difficulty finding a suitable outlet for the 9 Lucky Number. The 9 is usually well suited to the helping and healing professions; the number is less inclined to the competitive business environment.</p>
+        <p>You have the ability to make friends very easily, as people are attracted to your magnetic, open personality. You have a special gift of understanding people, which if used correctly can be of great benefit to others. Your interest in people tends to make you quite social.</p>
+        ]]></string>
+
+</resources>
